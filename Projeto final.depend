@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1654478187 source:c:\users\pc\onedrive - fatec centro paula souza\desktop\fatec ads\linguagem de programação 2\projeto final\projeto final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"produto.h"
+
+1654478769 c:\users\pc\onedrive - fatec centro paula souza\desktop\fatec ads\linguagem de programação 2\projeto final\projeto final\produto.h
+
+1654478769 source:c:\users\pc\onedrive - fatec centro paula souza\desktop\fatec ads\linguagem de programação 2\projeto final\projeto final\produto.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"produto.h"
+
+1654524626 source:c:\users\user\documents\joãodocumentos\fatec\2ºsemestre\linguagem de programaÇao-maromo-sabado\proling\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"produto.h"
+
+1654524754 c:\users\user\documents\joãodocumentos\fatec\2ºsemestre\linguagem de programaÇao-maromo-sabado\proling\produto.h
+
+1654524754 source:c:\users\user\documents\joãodocumentos\fatec\2ºsemestre\linguagem de programaÇao-maromo-sabado\proling\produto.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"produto.h"
+
+1654864433 source:c:\users\user\downloads\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"produto.h"
+
+1654864440 c:\users\user\downloads\produto.h
+
+1654868705 source:c:\users\user\downloads\penultimo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"produto.h"
+
+1654864440 c:\users\user\downloads\penultimo\produto.h
+
+1654867870 source:c:\users\user\downloads\penultimo\produto.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"produto.h"
+
